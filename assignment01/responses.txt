@@ -1,0 +1,8 @@
+The internet is network consisting of other networks, and the web is a collection of information that people can access using the web.
+
+The internet is a network made up of other networks, that use routers to connect all of the networks and gives people access to the networks.
+
+A directory is a location that stores files on the computer
+
+Vcs can be helpful because they let you do things such as compare files, and then furthermore identify any differences, and then merge the changes before the files get committed to the internet
+
