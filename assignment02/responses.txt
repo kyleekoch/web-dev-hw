@@ -1,0 +1,7 @@
+Data travels through the internet in packets, through wires and fiber optic cables
+
+An IP address is assigned to any computer used to identify it on a network, and a DNS is used to convert alphabetic references into a server's IP address.
+
+A cookie is a small piece of data sent from a website and stored on the user's computer by the user's web browser while the user is web browsing.
+
+The three main parts of a URL are the protocol, domain name, and the path.
