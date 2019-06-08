@@ -1,6 +1,5 @@
-Kylee Koch
+I went to a site for Obama from 2004.  It looks very old and outdated to me, something that if I were to click on it now I would not think that it is a legit website as it is so outdated.
 
-This repository is for web design homework!
+I have already used to git module and it has always been a little bit confusing for me to make sure that everything gets transferred over there and pushed to the repository.
 
-My name is Kylee Koch and I am a senior at the University of Montana studying Media Arts!
-
+(./images/screenshot04.png)
