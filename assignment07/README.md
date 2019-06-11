@@ -1,1 +1,5 @@
+Divs elements offer developers a block level element to group other elements together, classes are identifier and selector values for HTML elements, ids are global identifiers, and spans are used to identify text that needs to appear visually unique on the HTML page.
 
+Alt text is used for images if the image cannot be displayed.  It provides additional information on an image if a viewer cannot see it.
+
+For this cycle I first thought of an album I wanted to do and started to gather all of the necessary information that I needed on the album for this project.  Next I read through the guidelines for the project and then visited the course website to look through all of the new information for this section.  I then created my html and added in the 4 html elements and the meta elements.  I then copied the style element and put that into my page.  After that I went through and followed the guidelines and checked my website to make sure that everything was working and coded right.  Once I successfully finished I saved it and added it to my github repo.
