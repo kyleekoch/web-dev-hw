@@ -1,0 +1,31 @@
+body {
+  background: 	#FF6347;
+  text-align: center;
+  padding: 100px;
+
+}
+
+.container {
+    background: rgba(0,191,255,20);
+    position: static;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: monospace;
+  color: 	#7CFC00;
+
+}
+
+h2 {
+  font-size: 60px;
+  font-family:monospace;
+  color: 	#7CFC00;
+
+}
+
+p {
+  font-size: 35px;
+  font-family:monospace;
+  color: 	#FF69B4;
+}
